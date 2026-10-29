@@ -28,12 +28,7 @@ Rules:
 6. Count only installs the proposal says are 100 kW or more. Note the years given.
 7. If you are unsure, set "confidence" to "low" and say why in "notes".
 
-USER:
-Criteria for this category (for context only): {{criteria_list_from_admin}}
-
-<proposal>
-{{extracted_pdf_text}}
-</proposal>
+USER select criteria for this categiry.
 
 Return only this JSON and nothing else:
 {

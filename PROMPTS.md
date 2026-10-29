@@ -1,6 +1,6 @@
 # Prompt
 
-I use AI for one job only: reading a proposal and pulling out facts and It never scores or ranks.
+I use AI for one purpose only: reading a proposal and pulling out facts and It never scores or ranks.
 Code does the scoring.
 
 Settings: temperature 0, a pinned model version, JSON output only. The prompt is stored with a

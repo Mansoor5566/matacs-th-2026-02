@@ -1,8 +1,8 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-- **Name:** [Mansoor Hussain]
+- **Name:** Mansoor Hussain
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:** [1 hr 20 min]
+- **Time actually spent:** 1 hr 20 min
 
 ## Files
 - [WRITEUP.md](WRITEUP.md): answers to the five questions
